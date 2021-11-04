@@ -1,0 +1,8 @@
+certifi==2021.5.30
+charset-normalizer==2.0.6
+greenlet==1.1.2
+idna==3.2
+lxml==4.6.3
+requests==2.26.0
+SQLAlchemy==1.4.25
+urllib3==1.26.7
